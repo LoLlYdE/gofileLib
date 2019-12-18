@@ -1,4 +1,4 @@
-package fileLib
+package gofileLib
 
 import (
 	"fmt"
